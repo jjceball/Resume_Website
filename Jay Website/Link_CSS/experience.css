@@ -26,7 +26,6 @@ a:hover {
 
 h2 {
 	text-decoration: underline;
-	color: white;
 }
 
 img {
@@ -41,6 +40,10 @@ img {
 
 img {
 	float: right; !IMPORTANT
+}
+
+span {
+  float: right; !IMPORTANT
 }
 
 /* Sticky footer styles
